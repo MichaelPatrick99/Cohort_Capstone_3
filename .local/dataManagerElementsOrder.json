@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "elementNames&Sequence_1",
+        "xmlOutputDt&Sequence_1",
+        "namesXML&Sequence_1",
+        "deserializeXML_output&Sequence_1",
+        "responseConDT&Sequence_5",
+        "responseStatus&Sequence_3",
+        "responseCon&Sequence_3",
+        "responseAtt&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
